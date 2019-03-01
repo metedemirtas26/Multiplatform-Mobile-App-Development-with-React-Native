@@ -1,1 +1,1 @@
-export const baseUrl = "http://169.254.236.204/16/";
+export const baseUrl = "https://confusion-dbd48.firebaseio.com/";
